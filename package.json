@@ -1,0 +1,1 @@
+{"name":"b2b-servicos-site","version":"1.0.0","private":true,"description":"Site experimental B2B Serviços","scripts":{"start":"node server.js --open","dev":"node server.js"}}
